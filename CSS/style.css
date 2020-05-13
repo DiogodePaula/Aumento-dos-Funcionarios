@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    text-align: center;
+    margin-top: 5%;
+    background: linear-gradient(to right, #01f1dd, #f1f50d , #12b4e6);
+}
+
+input{
+    text-align: center;
+    font-size: 25px;
+    padding: 5px;
+    border: solid 2px black;
+    border-radius: 5px;
+    width: 20%;
+}
+ 
+#divPai{
+   position: relative;
+   display: inline-table;
+   width: 20%;
+   height: 10%; 
+   font-size: 20px;
+}
+
+label{
+    background-color: rgb(7, 243, 251);
+}
